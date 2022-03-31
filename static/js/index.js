@@ -5,7 +5,7 @@
         BlogUser: "LiveForCode",
         BlogAvatar: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/sidebar/avatar.jpg",
         BlogStartDate: "2020-01-01",
-        WebsiteTitleBlur: "(◍´꒳`◍) Hi, Live For Code",
+        WebsiteTitleBlur: "(◍´꒳`◍) Hi, 几社艺术",
         WebsiteTitleBlurTimeOut: 500,
         WebsiteTitleFocus: "(*´∇｀*) 欢迎回来!",
         WebsiteTitleFocusTimeOut: 1000,

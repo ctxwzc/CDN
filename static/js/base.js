@@ -80,7 +80,7 @@ function Base() {
         $(window).resize( function() { script.resizeMonitor(); });
 
         // 设置名称
-        $('.header-title').text(window.config.BlogUser);
+        $('.header-title').text("几社艺术");
 
         // 初始化样式
         script.initStyle();
